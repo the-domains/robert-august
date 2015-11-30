@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Robert August]]></title>
         <description><![CDATA[Robert August]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robert-august/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 18:27:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 21:37:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robert-august/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e25cddb-cef8-4d15-9fc7-d67aff7eacc5.jpg">]]></description>
+            <link>https://thegrid.ai/robert-august/35d1f18c-a9ad-4917-b497-cd90e4335b06/index.html</link>
+            <guid isPermaLink="false">35d1f18c-a9ad-4917-b497-cd90e4335b06</guid>
+            <pubDate>Mon, 30 Nov 2015 21:36:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fbcca4f-c6d6-4b13-80d9-2e2cf6915587.jpg">]]></description>
-            <link>undefined09bac1f3-ee1c-4193-8339-d6051b6fe867/index.html</link>
+            <link>https://thegrid.ai/robert-august/09bac1f3-ee1c-4193-8339-d6051b6fe867/index.html</link>
             <guid isPermaLink="false">09bac1f3-ee1c-4193-8339-d6051b6fe867</guid>
             <pubDate>Mon, 30 Nov 2015 18:27:24 GMT</pubDate>
         </item>
