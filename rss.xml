@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robert August]]></title>
+        <description><![CDATA[Robert August]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Dec 2015 17:56:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Small circles]]></title>
+            <description><![CDATA[<article><h1>Small circles</h1><p>Too many cooks in the kitchen will dilute the vision.</p></article>]]></description>
+            <link>undefinedsmall-circles/index.html</link>
+            <guid isPermaLink="false">5242754a-6a57-4d23-994c-ee62f913c78d</guid>
+            <pubDate>Thu, 03 Dec 2015 17:56:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
