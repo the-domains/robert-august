@@ -1,7 +1,7 @@
 name: Robert August
 favicon: null
-layout_spectrum: 0.83556
-typography_spectrum: 0.75625
+layout_spectrum: 1
+typography_spectrum: 1
 title: Robert August
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#010101'
-    - '#c2c2c2'
-    - '#8d8d8d'
-    - '#393939'
-  brandStrength: 0
-  lightness: 1
+    - '#060606'
+    - '#eae4e5'
+    - '#d6ac9f'
+    - '#53240d'
+    - '#ec490b'
+  brandStrength: 1
+  lightness: 0
   saturation: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
